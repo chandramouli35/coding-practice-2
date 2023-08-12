@@ -1,0 +1,41 @@
+.person-name {
+    text-align: center;
+    background-color: #323f4b;
+    color: white;
+}
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.messages-container {
+    padding: 20px;
+
+}
+
+.message-sent {
+    text-align: right;
+    background-color: #47a3f3;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    color: #ffffff;
+    padding: 8px;
+
+
+}
+
+.message-received {
+    text-align: left;
+    background-color: #52606d;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    color: #ffffff;
+    padding: 8px;
+
+
+
+}
